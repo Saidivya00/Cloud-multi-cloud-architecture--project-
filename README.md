@@ -24,7 +24,9 @@ To design a multi-cloud system where services run on both AWS and GCP, communica
 - **Cloud Monitoring** – Metrics and Logs  
 
 ---
----
+---## 🧪 Demo Screenshot
+
+![Multi-Cloud Architecture Demo](./assets/multi-cloud-demo.png)
 
 ## 🔄 Interoperability Overview
 
